@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rabia
-- 👀 I’m interested in game development! But i'm keeping an open mind
+- 👀 I’m interested in software engineering!
 - 🌱 I’m currently learning C++, HTML and CSS.
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 How to reach me: message me 
